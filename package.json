@@ -1,0 +1,31 @@
+{
+  "name": "week-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokernal/week-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jokernal/week-10/issues"
+  },
+  "homepage": "https://github.com/Jokernal/week-10#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.0.0",
+    "jest": "^28.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.6"
+  }
+}
